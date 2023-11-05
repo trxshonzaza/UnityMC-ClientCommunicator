@@ -1,0 +1,6 @@
+name: UnityClientCommunicator
+version: '${project.version}'
+main: com.trxsh.UnityClientCommunicator.Main
+api-version: 1.19
+authors: [ trxsh ]
+description: Unity Client Communicator 
